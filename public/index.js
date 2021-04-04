@@ -1,3 +1,6 @@
+// const indexedDB = require("./indexedDB");
+// let val = indexedDB.saveRecord();
+
 let transactions = [];
 let myChart;
 
