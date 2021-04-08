@@ -49,4 +49,4 @@ function checkDatabase() {
     };
 };
 
-module.exports = saveRecord();
+window.addEventListener("online", checkDatabase);
